@@ -3,7 +3,7 @@ from dagster import job, op
 
 @op
 def get_name():
-    return "dagster"
+    return "mamma_mia"
 
 
 @op
